@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sunshine/static/css/main.a1f7ad09.chunk.css",
+    "main.css": "/sunshine/static/css/main.beac7f35.chunk.css",
     "main.js": "/sunshine/static/js/main.fc16a3d9.chunk.js",
     "main.js.map": "/sunshine/static/js/main.fc16a3d9.chunk.js.map",
     "runtime-main.js": "/sunshine/static/js/runtime-main.075e4cb4.js",
@@ -10,7 +10,7 @@
     "static/js/3.b1e0d31e.chunk.js": "/sunshine/static/js/3.b1e0d31e.chunk.js",
     "static/js/3.b1e0d31e.chunk.js.map": "/sunshine/static/js/3.b1e0d31e.chunk.js.map",
     "index.html": "/sunshine/index.html",
-    "static/css/main.a1f7ad09.chunk.css.map": "/sunshine/static/css/main.a1f7ad09.chunk.css.map",
+    "static/css/main.beac7f35.chunk.css.map": "/sunshine/static/css/main.beac7f35.chunk.css.map",
     "static/js/2.ff61f917.chunk.js.LICENSE.txt": "/sunshine/static/js/2.ff61f917.chunk.js.LICENSE.txt",
     "static/media/Algoma University.png": "/sunshine/static/media/Algoma University.0b44a24d.png",
     "static/media/Brescia College.jpg.png": "/sunshine/static/media/Brescia College.jpg.ff266107.png",
@@ -56,7 +56,7 @@
   "entrypoints": [
     "static/js/runtime-main.075e4cb4.js",
     "static/js/2.ff61f917.chunk.js",
-    "static/css/main.a1f7ad09.chunk.css",
+    "static/css/main.beac7f35.chunk.css",
     "static/js/main.fc16a3d9.chunk.js"
   ]
 }
