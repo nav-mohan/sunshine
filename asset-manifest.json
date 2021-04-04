@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sunshine/static/css/main.beac7f35.chunk.css",
-    "main.js": "/sunshine/static/js/main.fc16a3d9.chunk.js",
-    "main.js.map": "/sunshine/static/js/main.fc16a3d9.chunk.js.map",
-    "runtime-main.js": "/sunshine/static/js/runtime-main.075e4cb4.js",
-    "runtime-main.js.map": "/sunshine/static/js/runtime-main.075e4cb4.js.map",
-    "static/js/2.ff61f917.chunk.js": "/sunshine/static/js/2.ff61f917.chunk.js",
-    "static/js/2.ff61f917.chunk.js.map": "/sunshine/static/js/2.ff61f917.chunk.js.map",
-    "static/js/3.b1e0d31e.chunk.js": "/sunshine/static/js/3.b1e0d31e.chunk.js",
-    "static/js/3.b1e0d31e.chunk.js.map": "/sunshine/static/js/3.b1e0d31e.chunk.js.map",
+    "main.css": "/sunshine/static/css/main.d4049f87.chunk.css",
+    "main.js": "/sunshine/static/js/main.1209f73b.chunk.js",
+    "main.js.map": "/sunshine/static/js/main.1209f73b.chunk.js.map",
+    "runtime-main.js": "/sunshine/static/js/runtime-main.14c9afec.js",
+    "runtime-main.js.map": "/sunshine/static/js/runtime-main.14c9afec.js.map",
+    "static/js/2.7bbcafd6.chunk.js": "/sunshine/static/js/2.7bbcafd6.chunk.js",
+    "static/js/2.7bbcafd6.chunk.js.map": "/sunshine/static/js/2.7bbcafd6.chunk.js.map",
+    "static/js/3.ecc53267.chunk.js": "/sunshine/static/js/3.ecc53267.chunk.js",
+    "static/js/3.ecc53267.chunk.js.map": "/sunshine/static/js/3.ecc53267.chunk.js.map",
     "index.html": "/sunshine/index.html",
-    "static/css/main.beac7f35.chunk.css.map": "/sunshine/static/css/main.beac7f35.chunk.css.map",
-    "static/js/2.ff61f917.chunk.js.LICENSE.txt": "/sunshine/static/js/2.ff61f917.chunk.js.LICENSE.txt",
+    "static/css/main.d4049f87.chunk.css.map": "/sunshine/static/css/main.d4049f87.chunk.css.map",
+    "static/js/2.7bbcafd6.chunk.js.LICENSE.txt": "/sunshine/static/js/2.7bbcafd6.chunk.js.LICENSE.txt",
     "static/media/Algoma University.png": "/sunshine/static/media/Algoma University.0b44a24d.png",
     "static/media/Brescia College.jpg.png": "/sunshine/static/media/Brescia College.jpg.ff266107.png",
     "static/media/Brock University.jpg.png": "/sunshine/static/media/Brock University.jpg.2ce10629.png",
@@ -54,9 +54,9 @@
     "static/media/York University.jpg": "/sunshine/static/media/York University.6fc61f1e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.075e4cb4.js",
-    "static/js/2.ff61f917.chunk.js",
-    "static/css/main.beac7f35.chunk.css",
-    "static/js/main.fc16a3d9.chunk.js"
+    "static/js/runtime-main.14c9afec.js",
+    "static/js/2.7bbcafd6.chunk.js",
+    "static/css/main.d4049f87.chunk.css",
+    "static/js/main.1209f73b.chunk.js"
   ]
 }
